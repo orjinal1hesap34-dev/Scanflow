@@ -1,0 +1,6 @@
+{
+  "name": "ScanFlow",
+  "description": "Production-ready PDF document scanner with HD camera, edge detection, filters, PDF editor, tools, digital signatures, OCR, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
